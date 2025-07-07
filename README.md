@@ -86,9 +86,7 @@ Inside the codebase of the application, there are specific spaces in which you w
 
 ## 📫 Contact: 
 
-For any questions, suggestions, or contributions, feel free to reach out:
-
-- Email: msiavva@ece.auth.gr, siavvasm@gmail.com
+For any questions, suggestions, or contributions, feel free to reach out collaborators.
 
 ## 📄 License
 This repository is intended for academic use only.
