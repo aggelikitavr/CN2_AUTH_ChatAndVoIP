@@ -90,4 +90,8 @@ For any questions, suggestions, or contributions, feel free to reach out:
 
 - Email: msiavva@ece.auth.gr, siavvasm@gmail.com
 
+## 📄 License
+This repository is intended for academic use only.
+
+Do not copy or reuse without permission.
  
